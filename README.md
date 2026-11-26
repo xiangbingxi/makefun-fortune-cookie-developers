@@ -19,5 +19,5 @@ Run `main.py` with Python 3. It creates `/output` if needed, writes the entry, t
 - License: MIT
 
 ![Bounty](https://make.fun/badge/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44.svg)
-![Rank](https://make.fun/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/xiangbingxi/makefun-fortune-cookie-developers/rank.svg)
-![Reward](https://make.fun/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/xiangbingxi/makefun-fortune-cookie-developers/reward.svg)
+![Rank](https://make.fun/badge/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/xiangbingxi/makefun-fortune-cookie-developers/rank.svg)
+![Reward](https://make.fun/badge/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/xiangbingxi/makefun-fortune-cookie-developers/reward.svg)
